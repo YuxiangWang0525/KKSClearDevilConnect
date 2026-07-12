@@ -1,0 +1,62 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKS_ClearDevilConnect", "KKS_ClearDevilConnect\KKS_ClearDevilConnect.csproj", "{A3B7C8D1-4E2F-4A6B-9D5E-1F3A5B7C9D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C489DBC-B8FC-4B0C-BA9C-023AFCD2896A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C489DBC-B8FC-4B0C-BA9C-023AFCD2896A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C489DBC-B8FC-4B0C-BA9C-023AFCD2896A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C489DBC-B8FC-4B0C-BA9C-023AFCD2896A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9020A15-E2D1-47D6-AC74-FBF397CCBD67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9020A15-E2D1-47D6-AC74-FBF397CCBD67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9020A15-E2D1-47D6-AC74-FBF397CCBD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9020A15-E2D1-47D6-AC74-FBF397CCBD67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87BB074-865D-44B4-BAE7-D7719327E405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87BB074-865D-44B4-BAE7-D7719327E405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87BB074-865D-44B4-BAE7-D7719327E405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87BB074-865D-44B4-BAE7-D7719327E405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E10E90-CA83-41A6-BD88-EB0ACA1D45D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E10E90-CA83-41A6-BD88-EB0ACA1D45D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E10E90-CA83-41A6-BD88-EB0ACA1D45D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E10E90-CA83-41A6-BD88-EB0ACA1D45D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E9BC084-8CEB-4531-A4BA-2013B0CEFBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9BC084-8CEB-4531-A4BA-2013B0CEFBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9BC084-8CEB-4531-A4BA-2013B0CEFBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9BC084-8CEB-4531-A4BA-2013B0CEFBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF71793-D148-4417-B989-52B15CBF5ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF71793-D148-4417-B989-52B15CBF5ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF71793-D148-4417-B989-52B15CBF5ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF71793-D148-4417-B989-52B15CBF5ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B7C8D1-4E2F-4A6B-9D5E-1F3A5B7C9D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B7C8D1-4E2F-4A6B-9D5E-1F3A5B7C9D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B7C8D1-4E2F-4A6B-9D5E-1F3A5B7C9D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B7C8D1-4E2F-4A6B-9D5E-1F3A5B7C9D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19B0272D-3305-4C60-8DD9-E15889B2FF54}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Shared_Noclip\Shared_Noclip.projitems*{016ad588-15a9-4467-a9c4-a1cbd107562f}*SharedItemsImports = 13
+		Shared\Shared.projitems*{1ff71793-d148-4417-b989-52b15cbf5ed8}*SharedItemsImports = 5
+		Shared\Shared.projitems*{4c489dbc-b8fc-4b0c-ba9c-023afcd2896a}*SharedItemsImports = 4
+		Shared_Noclip\Shared_Noclip.projitems*{4c489dbc-b8fc-4b0c-ba9c-023afcd2896a}*SharedItemsImports = 4
+		Shared\Shared.projitems*{4e9bc084-8ceb-4531-a4ba-2013b0cefba0}*SharedItemsImports = 4
+		Shared\Shared.projitems*{a87bb074-865d-44b4-bae7-d7719327e405}*SharedItemsImports = 4
+		Shared\Shared.projitems*{bd455182-d44b-4647-aa8a-566444962e3f}*SharedItemsImports = 13
+		Shared\Shared.projitems*{c9020a15-e2d1-47d6-ac74-fbf397ccbd67}*SharedItemsImports = 4
+		Shared_Noclip\Shared_Noclip.projitems*{c9020a15-e2d1-47d6-ac74-fbf397ccbd67}*SharedItemsImports = 4
+		Shared\Shared.projitems*{f0e10e90-ca83-41a6-bd88-eb0aca1d45d5}*SharedItemsImports = 4
+		Shared_Noclip\Shared_Noclip.projitems*{f0e10e90-ca83-41a6-bd88-eb0aca1d45d5}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal
