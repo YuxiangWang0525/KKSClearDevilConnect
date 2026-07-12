@@ -1,5 +1,5 @@
 # KKSClearDevilConnect
-Connect Koikatsu Sunshine to your YUU(Yes-YouYoung) Little Devil Fully Automatic Male Masturbator via [ClearDevil](https://github.com/YuxiangWang_0525/ClearDevil)  
+Connect Koikatsu Sunshine to your YUU(Yes-YouYoung) Little Devil Fully Automatic Male Masturbator via [ClearDevil](https://github.com/YuxiangWang0525/ClearDevil)  
 
 # How to use.
 first,you need install BepInEx for Koikatsu Sunshine.
@@ -7,7 +7,7 @@ and put KKS_ClearDevilConnect.dll to BepInEx/plugins
 
 Enter the game and press F12. You can see the connection window. Please configure the correct connection parameters (default port is 39807)
 
-Then. Launch [ClearDevil](https://github.com/YuxiangWang_0525/ClearDevil). wait to connection.  
+Then. Launch [ClearDevil](https://github.com/YuxiangWang0525/ClearDevil). wait to connection.  
 and Done!
 
 # How to build
