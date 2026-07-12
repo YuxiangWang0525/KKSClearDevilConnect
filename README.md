@@ -10,6 +10,11 @@ Enter the game and press F12. You can see the connection window. Please configur
 Then. Launch [ClearDevil](https://github.com/YuxiangWang_0525/ClearDevil). wait to connection.  
 and Done!
 
+# How to build
+1. Clone'this repository
+2. Download Jetbrains Rider,and open this repository.NuGet will be installed automatically.
+3. Just build the project.
+
 # Inspiration source, code reference, special thanks
 [IllusionCheatTools by ManlyMarco](https://github.com/ManlyMarco/IllusionCheatTools)
 
