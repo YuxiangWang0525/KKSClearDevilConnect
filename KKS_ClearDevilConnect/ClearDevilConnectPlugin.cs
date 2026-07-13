@@ -129,7 +129,7 @@ namespace ClearDevilConnect
                             url = $"http://{serverAddress}:{port}/stop";
                             break;
                         case "classicmode_1":
-                            url = $"http://{serverAddress}:{port}/classicmode?type=1";
+                            url = $"http://{serverAddress}:{port}/classicmode?type=10";
                             break;
                         default:
                             if (command.StartsWith("manualmode_A_"))
